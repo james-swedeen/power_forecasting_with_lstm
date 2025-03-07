@@ -1,4 +1,4 @@
-# Power_Forecasting_With_DNN
+# Power Forecasting With LSTM
 
 ## Introduction
 
